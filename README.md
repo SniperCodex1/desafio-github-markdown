@@ -33,6 +33,7 @@ Siga os passos abaixo para compartilhar o link do seu perfil conosco:
 |--------------|-----------------------------|------------------------------------|
 | Seu Nome Aqui | [seu-usuario](https://github.com/seu-usuario) |Desenvolvedor backend e criador de conteúdo. |
 | Thiago Lopes | [ThiagoLopes-Cloud](https://github.com/exemplo-usuario) | Estudante de tecnologia apaixonado por IA. |
+| Arthur Bini | [SniperCodex1](https://github.com/SniperCodex1) | Começando a programar..° |
 
 
 ---
